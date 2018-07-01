@@ -7,8 +7,6 @@
 
 ## Only C
 1. [**Lucky 7 Game**](https://github.com/tbhaxor/educational_projects/tree/master/C/LUCKY_7)
-2. [**Galaga type Game**](https://github.com/vkoshti/Galaga)
-3. [**Snake Game**](https://github.com/mahir1010/Snake_0.2)
 
 ## C and File Handling
 1. [**Cafeterial Management Program**](https://github.com/tbhaxor/educational_projects/tree/master/C_AND_FILE_HANDLING/CAFETERIA_ODERING_PROGRAM)
@@ -24,8 +22,6 @@
 
 ## Core Java
 1. [**Snake Game using Applets**](https://github.com/tbhaxor/educational_projects/tree/master/CORE_JAVA/SNAKE_GAME)
-2. [**Snake Level Editor**](https://github.com/mahir1010/Snake_Level_Editor)
-3. [**IntraChat**](https://github.com/vkoshti/IntraChat)
 
 ## HTML and Javascript
 1. [**String Encoding and Decoding Program**](https://github.com/tbhaxor/educational_projects/tree/master/HTML_AND_JAVASCRIPT/ENCODING_AND_DECODING_PROGRAM)
